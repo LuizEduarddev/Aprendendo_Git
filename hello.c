@@ -2,5 +2,5 @@
 
 void main()
 {
-    printf("oi v1");
+    printf("oi v2");
 }
